@@ -8,3 +8,4 @@ scipy
 matplotlib
 voila
 ipykernel
+jupyter-flex
